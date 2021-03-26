@@ -12,7 +12,7 @@
 
 [<img align="left"  width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />](https://www.linkedin.com/in/ramon-souza/)
 
-[<img align="left" alt="Pandemic Hobbies" width="22px" src="https://cdn.iconscout.com/icon/free/png-512/wordpress-35-569289.png" />](https://pandemichobbies.wordpress.com/)
+[<img align="left" alt="Pandemic Hobbies" width="22px" src="https://cdn.iconscout.com/icon/free/png-512/wordpress-35-569289.png" />](https://datasciencerecruit.wordpress.com/)
 
 <br />
 
@@ -32,7 +32,7 @@
 ### 📕 Latest Blog Post
 
 <!-- BLOG-POST-LIST:START -->
-* [Honey Production Analysis](https://pandemichobbies.wordpress.com/2021/03/23/honey-production-analysis/) 
+* [Honey Production Analysis](https://datasciencerecruit.wordpress.com//2021/03/23/honey-production-analysis/) 
 
 <!-- BLOG-POST-LIST:END -->
 
