@@ -2,7 +2,6 @@
 
 ## I'm a recently graduated Mechanical Engineer that really enjoys seeing data and finding patterns in it. I'm studying it and creating projects that you check below. Please reach out to me if you want to talk about anything related to Data.
 
-- 
 - 📝 I’m also a freelancer translator from English to Brazilian Portuguese 
 - 💻 I’m currently working on increasing my skills on Data Cleaning and Visualisation
 - 📈 I have a blog where I’ll share my projects with more details. I like to write in a explanatory way.
