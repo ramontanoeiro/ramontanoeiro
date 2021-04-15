@@ -11,7 +11,7 @@
 
 [<img align="left"  width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />](https://www.linkedin.com/in/ramon-souza/)
 
-[<img align="left" alt="Pandemic Hobbies" width="22px" src="https://cdn.iconscout.com/icon/free/png-512/wordpress-35-569289.png" />](https://datasciencerecruit.wordpress.com/)
+[<img align="left" alt="Data Science Recruit" width="22px" src="https://cdn.iconscout.com/icon/free/png-512/wordpress-35-569289.png" />](https://datasciencerecruit.wordpress.com/)
 
 <br />
 
@@ -23,7 +23,7 @@
 
 <img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/pandas.svg" />
 
-<img align="left" alt="Tensorflow" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftensorflow%2Ftensorflow&psig=AOvVaw0I20IGpu73vWg3pSSF-54Y&ust=1618581629017000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPDJ8My0gPACFQAAAAAdAAAAABAD" />
+<img align="left" alt="Tensorflow" width="26px" src="https://camo.githubusercontent.com/c04e16c05de80dadbdc990884672fc941fdcbbfbb02b31dd48c248d010861426/68747470733a2f2f7777772e74656e736f72666c6f772e6f72672f696d616765732f74665f6c6f676f5f736f6369616c2e706e67" />
 
 <br />
 <br />
