@@ -23,9 +23,11 @@
 
 [<img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/pandas.svg" />](https://pandas.pydata.org/pandas-docs/stable/index.html)
 
-[<img align="left" alt="Tensorflow" width="48px" src="https://www.gstatic.com/devrel-devsite/prod/v611aa55c57477cd8cd7cf431e9c41501ac9b499722f27f5e58377ae7957507df/tensorflow/images/lockup.svg" />](https://www.tensorflow.org/?hl=pt-br)
+[<img align="left" alt="Tensorflow" width="52px" src="https://www.gstatic.com/devrel-devsite/prod/v611aa55c57477cd8cd7cf431e9c41501ac9b499722f27f5e58377ae7957507df/tensorflow/images/lockup.svg" />](https://www.tensorflow.org/?hl=pt-br)
 
 [<img align="left" alt="NumPy" width="26px" src="https://numpy.org/images/logos/numpy.svg" />](https://numpy.org/)
+
+[<img align="left" alt="Power BI" width="26px" src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg" />](https://powerbi.microsoft.com/pt-br/)
 
 <br />
 <br />
