@@ -17,15 +17,15 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
+<img align="left" alt="python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />(https://www.python.org/)
 
 [<img align="left" alt="Scikit-learn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />](https://scikit-learn.org/stable/)
 
-<img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/pandas.svg" />
+<img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/pandas.svg" />(https://pandas.pydata.org/pandas-docs/stable/index.html)
 
-<img align="left" alt="Tensorflow" width="32px" src="https://camo.githubusercontent.com/c04e16c05de80dadbdc990884672fc941fdcbbfbb02b31dd48c248d010861426/68747470733a2f2f7777772e74656e736f72666c6f772e6f72672f696d616765732f74665f6c6f676f5f736f6369616c2e706e67" />
+<img align="left" alt="Tensorflow" width="32px" src="https://www.gstatic.com/devrel-devsite/prod/v611aa55c57477cd8cd7cf431e9c41501ac9b499722f27f5e58377ae7957507df/tensorflow/images/lockup.svg" />(https://www.tensorflow.org/?hl=pt-br)
 
-<img align="left" alt="NumPy" width="26px" src="https://miro.medium.com/max/765/1*cyXCE-JcBelTyrK-58w6_Q.png" />
+<img align="left" alt="NumPy" width="26px" src="https://numpy.org/images/logos/numpy.svg" />(https://numpy.org/)
 
 <br />
 <br />
