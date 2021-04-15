@@ -29,7 +29,7 @@
 
 [<img align="left" alt="Plotly" width="65px" src="https://plotly.com/all_static/images/plotly_graphing_libraries_1.png" />](https://plotly.com/python/)
 
-[<img align="left" alt="Tensorflow" width="565px" src="https://www.gstatic.com/devrel-devsite/prod/v611aa55c57477cd8cd7cf431e9c41501ac9b499722f27f5e58377ae7957507df/tensorflow/images/lockup.svg" />](https://www.tensorflow.org/?hl=pt-br)
+[<img align="left" alt="Tensorflow" width="65px" src="https://www.gstatic.com/devrel-devsite/prod/v611aa55c57477cd8cd7cf431e9c41501ac9b499722f27f5e58377ae7957507df/tensorflow/images/lockup.svg" />](https://www.tensorflow.org/?hl=pt-br)
 
 [<img align="left" alt="NumPy" width="26px" src="https://numpy.org/images/logos/numpy.svg" />](https://numpy.org/)
 
