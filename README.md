@@ -3,7 +3,7 @@
 ## I'm a recently graduated Mechanical Engineer that really enjoys seeing data and finding patterns in it. I'm studying it and creating projects that you check below. Please reach out to me if you want to talk about anything related to Data.
 
 - 📝 I’m also a freelancer translator from English to Brazilian Portuguese 
-- 💻 I’m currently working on increasing my skills on Data Cleaning and Visualisation
+- 💻 I’m currently working on increasing my skills on Deep Learning, Facial Recognition, Statistics and SQL
 - 📈 I have a blog where I’ll share my projects with more details. I like to write in a explanatory way.
 - 📊 I’m looking to collaborate with other Data Enthusiasts 
 
@@ -23,6 +23,8 @@
 
 <img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/pandas.svg" />
 
+<img align="left" alt="Tensorflow" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftensorflow%2Ftensorflow&psig=AOvVaw0I20IGpu73vWg3pSSF-54Y&ust=1618581629017000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPDJ8My0gPACFQAAAAAdAAAAABAD" />
+
 <br />
 <br />
 
@@ -31,7 +33,7 @@
 ### 📕 Latest Blog Post
 
 <!-- BLOG-POST-LIST:START -->
-* [Honey Production Analysis](https://datasciencerecruit.wordpress.com//2021/03/23/honey-production-analysis/) 
+* [Iris Analysis Lambda3 Challenge](https://datasciencerecruit.wordpress.com/2021/04/10/iris-analysis-lambda3-challenge/) 
 
 <!-- BLOG-POST-LIST:END -->
 
