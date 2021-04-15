@@ -23,7 +23,9 @@
 
 <img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/pandas.svg" />
 
-<img align="left" alt="Tensorflow" width="26px" src="https://camo.githubusercontent.com/c04e16c05de80dadbdc990884672fc941fdcbbfbb02b31dd48c248d010861426/68747470733a2f2f7777772e74656e736f72666c6f772e6f72672f696d616765732f74665f6c6f676f5f736f6369616c2e706e67" />
+<img align="left" alt="Tensorflow" width="32px" src="https://camo.githubusercontent.com/c04e16c05de80dadbdc990884672fc941fdcbbfbb02b31dd48c248d010861426/68747470733a2f2f7777772e74656e736f72666c6f772e6f72672f696d616765732f74665f6c6f676f5f736f6369616c2e706e67" />
+
+<img align="left" alt="NumPy" width="26px" src="https://miro.medium.com/max/765/1*cyXCE-JcBelTyrK-58w6_Q.png" />
 
 <br />
 <br />
