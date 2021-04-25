@@ -43,7 +43,7 @@
 ### 📕 Latest Blog Post
 
 <!-- BLOG-POST-LIST:START -->
-* [Iris Analysis Lambda3 Challenge](https://datasciencerecruit.wordpress.com/2021/04/10/iris-analysis-lambda3-challenge/) 
+* [Creating Excel Sheets for Seoul Air Quality Data](datasciencerecruit.wordpress.com/2021/04/22/creating-excel-sheets-for-seoul-air-quality-data/) 
 
 <!-- BLOG-POST-LIST:END -->
 
