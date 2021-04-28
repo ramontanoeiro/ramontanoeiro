@@ -43,7 +43,7 @@
 ### 📕 Latest Blog Post
 
 <!-- BLOG-POST-LIST:START -->
-* [Creating Excel Sheets for Seoul Air Quality Data](datasciencerecruit.wordpress.com/2021/04/22/creating-excel-sheets-for-seoul-air-quality-data/) 
+* [Air Seoul Quality Data – Updated with 2020](https://datasciencerecruit.wordpress.com/2021/04/27/air-seoul-quality-data-updated-with-2020/) 
 
 <!-- BLOG-POST-LIST:END -->
 
