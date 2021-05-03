@@ -43,7 +43,7 @@
 ### 📕 Latest Blog Post
 
 <!-- BLOG-POST-LIST:START -->
-* [Air Seoul Quality Data – Updated with 2020](https://datasciencerecruit.wordpress.com/2021/04/27/air-seoul-quality-data-updated-with-2020/) 
+* [Time Series Analysis and Prediction from Seoul Air Quality Data](https://datasciencerecruit.com/2021/05/03/time-series-analysis-and-prediction-from-seoul-air-quality-data/) 
 
 <!-- BLOG-POST-LIST:END -->
 
