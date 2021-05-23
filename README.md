@@ -43,7 +43,7 @@
 ### 📕 Latest Blog Post
 
 <!-- BLOG-POST-LIST:START -->
-* [Time Series Analysis and Prediction from Seoul Air Quality Data](https://datasciencerecruit.com/2021/05/03/time-series-analysis-and-prediction-from-seoul-air-quality-data/) 
+* [Improved Vaccine Dashboard](https://datasciencerecruit.com/2021/05/23/improved-vaccine-dashboard/) 
 
 <!-- BLOG-POST-LIST:END -->
 
