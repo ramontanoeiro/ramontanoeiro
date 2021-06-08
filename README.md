@@ -43,7 +43,7 @@
 ### 📕 Latest Blog Post
 
 <!-- BLOG-POST-LIST:START -->
-* [Improved Vaccine Dashboard](https://datasciencerecruit.com/2021/05/23/improved-vaccine-dashboard/) 
+* [Wind Power Forecast](https://datasciencerecruit.com/2021/06/07/wind-power-forecast-ii/) 
 
 <!-- BLOG-POST-LIST:END -->
 
