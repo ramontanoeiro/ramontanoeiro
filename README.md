@@ -43,7 +43,7 @@
 ### 📕 Latest Blog Post
 
 <!-- BLOG-POST-LIST:START -->
-* [Wind Power Forecast](https://datasciencerecruit.com/2021/06/07/wind-power-forecast-ii/) 
+* [Scrapy and SQL in the Olympic Games Dataset](https://datasciencerecruit.com/2021/08/27/scrapy-and-sql-in-the-olympic-games-dataset/) 
 
 <!-- BLOG-POST-LIST:END -->
 
