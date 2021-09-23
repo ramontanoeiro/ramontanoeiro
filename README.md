@@ -35,7 +35,7 @@
 
 [<img align="left" alt="Power BI" width="26px" src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg" />](https://powerbi.microsoft.com/pt-br/)
 
-[<img align="left" alt="SQL" width="26px" src="https://cl9.com.br/wp-content/uploads/2020/03/quais-as-diferencas-entre-as-versoes-do-sql-server-p10dnfny4wpoh5oxcvtewb4ezm48eemcycsg2jvhl4.jpg" />](https://www.microsoft.com/pt-br/sql-server)
+[<img align="left" alt="SQL" width="52px" src="https://cl9.com.br/wp-content/uploads/2020/03/quais-as-diferencas-entre-as-versoes-do-sql-server-p10dnfny4wpoh5oxcvtewb4ezm48eemcycsg2jvhl4.jpg" />](https://www.microsoft.com/pt-br/sql-server)
 
 <br />
 <br />
