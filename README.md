@@ -1,11 +1,8 @@
-### Ramon Tanoeiro - [Data Scientist Student] 😄
+### Ramon Tanoeiro - [Data Analyst/Scientist Student] 😄
 
-## I'm a recently graduated Mechanical Engineer that really enjoys seeing data and finding patterns in it. I'm studying it and creating projects that you check below. Please reach out to me if you want to talk about anything related to Data.
-
-- 📝 I’m also a freelancer translator from English to Brazilian Portuguese 
-- 💻 I’m currently working on increasing my skills on Deep Learning, Facial Recognition, Statistics and SQL
-- 📈 I have a blog where I’ll share my projects with more details. I like to write in a explanatory way.
-- 📊 I’m looking to collaborate with other Data Enthusiasts 
+- 💻 I’m currently working on my SQL and Power BI skills. I'm also working on my Python Deep Learning skills.
+- 📈 I have a blog where I’ll share my projects with more details. I prefer to write it in an explanatory way, instead of guiding style.
+- 📊 I’m looking to collaborate with other Data Enthusiasts.
 
 ### Connect with me:
 
@@ -35,7 +32,7 @@
 
 [<img align="left" alt="Power BI" width="26px" src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg" />](https://powerbi.microsoft.com/pt-br/)
 
-[<img align="left" alt="SQL" width="104px" src="https://cl9.com.br/wp-content/uploads/2020/03/quais-as-diferencas-entre-as-versoes-do-sql-server-p10dnfny4wpoh5oxcvtewb4ezm48eemcycsg2jvhl4.jpg" />](https://www.microsoft.com/pt-br/sql-server)
+[<img align="top" alt="SQL" width="96px" src="https://www.luiztools.com.br/wp-content/uploads/2013/05/SQL-Server-Logo.png"/>](https://www.microsoft.com/pt-br/sql-server)
 
 <br />
 <br />
