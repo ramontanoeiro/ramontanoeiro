@@ -35,6 +35,8 @@
 
 [<img align="left" alt="Power BI" width="26px" src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg" />](https://powerbi.microsoft.com/pt-br/)
 
+[<img align="left" alt="SQL" width="26px" src="https://cl9.com.br/wp-content/uploads/2020/03/quais-as-diferencas-entre-as-versoes-do-sql-server-p10dnfny4wpoh5oxcvtewb4ezm48eemcycsg2jvhl4.jpg" />](https://www.microsoft.com/pt-br/sql-server)
+
 <br />
 <br />
 
@@ -43,7 +45,7 @@
 ### 📕 Latest Blog Post
 
 <!-- BLOG-POST-LIST:START -->
-* [Scrapy and SQL in the Olympic Games Dataset](https://datasciencerecruit.com/2021/08/27/scrapy-and-sql-in-the-olympic-games-dataset/) 
+* [Using Scrapy and SQL in the Summer Olympic Games Dataset](https://datasciencerecruit.com/2021/08/27/scrapy-and-sql-in-the-olympic-games-dataset/) 
 
 <!-- BLOG-POST-LIST:END -->
 
